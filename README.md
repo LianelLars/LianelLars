@@ -1,4 +1,4 @@
-<h1 align="center">Wow, hello!</h1>
+<h1 align="center">БУ! Испугался? не бойся: я друг.</h1>
 <hr>
 <div align="center">
   <h2>Python, Nim, PHP, JS, C/C++, Dead Inside</h2>
